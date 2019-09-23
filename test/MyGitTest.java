@@ -1,8 +1,9 @@
+package test;
 
 public class MyGitTest 
 {
 	public static void main( String args[])
     {
-		System.out.println("Jamie says Hello from Master AND branch AAAA");
+		System.out.println("Jamie says Hello from Branch AAAA");
     }
 }
